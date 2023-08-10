@@ -1,2 +1,24 @@
-# Encryption-Decryption
-Explore our user-friendly website, combining HTML, CSS, and JavaScript magic for secure encryption and decryption. Safely encode sensitive info, watch it decode in real-time. We prioritize your privacy making online communication safer and easier. Your data, your control.
+# Encryption/Decryption Tool
+
+This is a simple web-based encryption/decryption tool that allows you to encrypt and decrypt messages using a key.
+
+## Features
+
+1. Encrypt messages using a key
+2. Decrypt encrypted messages using the same key
+
+## Usage
+
+1. Go to https://github.com/ShreyMohan11
+2. Enter a key in the "Key" field
+3. Enter a message in the "Message" field
+4. Click the "Encrypt" button to encrypt the message
+5. Click the "Decrypt" button to decrypt the encrypted message
+
+## Note
+
+This tool is intended for educational purposes only and is not suitable for secure encryption in real-world applications.
+
+## Contributions
+
+This tool is open source and contributions are welcome! If you would like to contribute, please open a pull request with your changes.
